@@ -26,8 +26,8 @@ I'm a passionate software developer from Portugal, currently seeking new job opp
 ---
 
 ### 📊 GitHub Stats:
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DTRV95&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DTRV95&layout=compact&theme=radical)
 
 ---
 
