@@ -1,7 +1,3 @@
-# Currently under construction: Check back soon 
-
-
-
 ### 💻 Full Stack Developer | Technology Enthusiast
 
 I'm a passionate software developer from Portugal, currently seeking new job opportunities and working on developing a **task and project management app** using **Microsoft Power Platforms**.
