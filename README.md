@@ -57,12 +57,6 @@ Right now, my main focus is **ScoreLab** — a data-driven software project buil
   <img height="170" src="https://streak-stats.demolab.com?user=DTRV95&theme=radical&hide_border=false" />
 </p>
 
-## 📌 Featured Projects
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DTRV95&repo=ScoreLab&theme=radical" />
-</p>
-
 ## 🌐 Connect With Me
 
 <p>
