@@ -49,11 +49,19 @@ Right now, my main focus is **ScoreLab** — a data-driven software project buil
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DTRV95&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DTRV95&layout=compact&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DTRV95&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DTRV95&layout=compact&theme=radical&langs_count=8" />
 </p>
 
----
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=DTRV95&theme=radical&hide_border=false" />
+</p>
+
+## 📌 Featured Projects
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DTRV95&repo=ScoreLab&theme=radical" />
+</p>
 
 ## 🌐 Connect With Me
 
