@@ -1,38 +1,73 @@
-### 💻 Full Stack Developer | Technology Enthusiast
+<h1 align="center">Hi there, I'm David 👋</h1>
+<h3 align="center">Full Stack Developer • Data-Driven Builder • Technology Enthusiast</h3>
 
-I'm a passionate software developer from Portugal, currently seeking new job opportunities and working on developing a **task and project management app** using **Microsoft Power Platforms**.
-
----
-
-### 🔭 Currently working on:
-- 🛠️ **Task and Project Management App**: Building this app using Microsoft Power Platforms to streamline workflows.
+<p align="center">
+  Passionate about building useful software, solving problems with logic and data, and turning ideas into real digital products.
+</p>
 
 ---
 
-### 🛠️ Technologies and Tools:
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
-![Microsoft Power Tools](https://img.shields.io/badge/-Microsoft%20Power%20Tools-000?&logo=Microsoft)
+## 🚀 About Me
+
+I'm a software developer from Portugal with a strong interest in building practical, user-focused solutions.  
+I enjoy combining technology, analysis, and creativity to create products that are not only functional, but genuinely useful.
+
+Right now, my main focus is **ScoreLab** — a data-driven software project built to analyze football matches, generate betting insights, and help transform complex data into clearer decisions.
 
 ---
 
-### 📊 GitHub Stats:
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DTRV95&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DTRV95&layout=compact&theme=radical)
+## 🔭 Building Right Now
+
+- ⚽ **ScoreLab**  
+  A data-driven football analysis software designed to evaluate matches, calculate probabilities, identify value opportunities, and present insights through a clean and modern interface.
+
+- 📊 **What it focuses on**  
+  Match analysis, probability-based predictions, betting value detection, bankroll thinking, and performance tracking.
+
+- 🧠 **Why I’m building it**  
+  To combine data analysis, software development, and decision-making into one product that solves a real problem in a smarter way.
 
 ---
 
-### 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/david-vilaverde/)
-- [Email](mailto:davidvilaverde@hotmail.com)
+## 🧰 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+</p>
 
 ---
 
-Feel free to check out my repositories below and connect with me on LinkedIn!
+## 📊 GitHub Insights
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DTRV95&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DTRV95&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/david-vilaverde/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:davidvilaverde@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Thanks for stopping by — feel free to explore my repositories and connect with me.
+</p>
