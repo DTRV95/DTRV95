@@ -1,43 +1,51 @@
-<h1 align="center">David Vilaverde</h1>
-<h3 align="center">Full Stack Developer • Data-Driven Thinker • Software Builder</h3>
+<h1 align="center">Hey, I'm David 👋</h1>
 
 <p align="center">
-  I build software that turns ideas, data, and logic into practical digital products.
+  <b>Full Stack Developer</b> • <b>Data-Driven Builder</b> • <b>Turning ideas into software</b>
+</p>
+
+<p align="center">
+  I build digital products where <b>logic</b>, <b>data</b>, and <b>clean design</b> come together.
 </p>
 
 ---
 
-## ⚡ About Me
+## ✨ Who I Am
 
-I'm a software developer from Portugal who enjoys creating solutions that are both useful and well thought out.  
-What drives me most is the process of taking a problem, breaking it down, and building something clear, functional, and meaningful around it.
+I’m a software developer from Portugal with a strong interest in building products that do more than just work — they need to make sense, solve real problems, and create clarity.
 
-I’m especially interested in the intersection of **software development**, **data analysis**, and **decision-focused products**.
+I enjoy the full process: from breaking down an idea, to designing the logic behind it, to turning it into a product people can actually use.
+
+My main focus right now is building software that combines **analysis**, **decision-making**, and **modern product thinking**.
 
 ---
 
-## 🚀 Main Project
+## ⚽ Current Build: ScoreLab
+
+<div align="center">
 
 ### **ScoreLab**
-ScoreLab is the software project I’m currently building and developing further.
+**Data-driven football analysis software built for smarter decisions**
 
-It is a **data-driven football analysis platform** created to analyze matches, estimate probabilities, detect value opportunities, and present insights in a clean, intuitive way.
+</div>
 
-The goal is simple: transform complex match data into smarter and clearer decision-making.
+ScoreLab is the main product I’m currently building — a platform designed to analyze football matches, estimate probabilities, identify value opportunities, and transform complex data into clear and actionable insights.
 
-#### What ScoreLab is built around:
-- Football match analysis
-- Probability-based predictions
-- Value bet identification
-- Bankroll and performance thinking
-- Clean product design focused on usability
+Instead of presenting raw numbers without direction, ScoreLab is built to make analysis feel sharper, cleaner, and more useful.
 
-#### Why I’m building it:
-Because I like building products where **logic, data, and software** come together to solve real-world problems in a smarter way.
+### What ScoreLab brings together
+- 📊 Match analysis
+- 🎯 Probability-driven insights
+- 💡 Value opportunity detection
+- 📈 Performance and bankroll thinking
+- 🧠 Decision-focused product design
+
+### Why I’m building it
+Because I’m fascinated by products that sit at the intersection of **software**, **data**, and **strategy** — where the goal is not just information, but better decisions.
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Stack I Work With
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" />
@@ -48,13 +56,15 @@ Because I like building products where **logic, data, and software** come togeth
   <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4" />
   <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1" />
   <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
 </p>
 
 ---
 
-## 📊 GitHub Insights
+## 📈 GitHub Pulse
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=DTRV95&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
@@ -67,7 +77,7 @@ Because I like building products where **logic, data, and software** come togeth
 
 ---
 
-## 🌐 Connect With Me
+## 🌍 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/david-vilaverde/" target="_blank">
@@ -79,6 +89,10 @@ Because I like building products where **logic, data, and software** come togeth
 </p>
 
 ---
+
+<p align="center">
+  <i>Building with purpose. Improving through iteration. Always creating.</i>
+</p>
 
 <p align="center">
   Feel free to explore my repositories and follow the projects I’m building.
