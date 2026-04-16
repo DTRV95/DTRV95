@@ -1,37 +1,45 @@
-<h1 align="center">Hi there, I'm David 👋</h1>
-<h3 align="center">Full Stack Developer • Data-Driven Builder • Technology Enthusiast</h3>
+<h1 align="center">David Vilaverde</h1>
+<h3 align="center">Full Stack Developer • Data-Driven Thinker • Software Builder</h3>
 
 <p align="center">
-  Passionate about building useful software, solving problems with logic and data, and turning ideas into real digital products.
+  I build software that turns ideas, data, and logic into practical digital products.
 </p>
 
 ---
 
-## 🚀 About Me
+## ⚡ About Me
 
-I'm a software developer from Portugal with a strong interest in building practical, user-focused solutions.  
-I enjoy combining technology, analysis, and creativity to create products that are not only functional, but genuinely useful.
+I'm a software developer from Portugal who enjoys creating solutions that are both useful and well thought out.  
+What drives me most is the process of taking a problem, breaking it down, and building something clear, functional, and meaningful around it.
 
-Right now, my main focus is **ScoreLab** — a data-driven software project built to analyze football matches, generate betting insights, and help transform complex data into clearer decisions.
+I’m especially interested in the intersection of **software development**, **data analysis**, and **decision-focused products**.
 
 ---
 
-## 🔭 Building Right Now
+## 🚀 Main Project
 
-- ⚽ **ScoreLab**  
-  A data-driven football analysis software designed to evaluate matches, calculate probabilities, identify value opportunities, and present insights through a clean and modern interface.
+### **ScoreLab**
+ScoreLab is the software project I’m currently building and developing further.
 
-- 📊 **What it focuses on**  
-  Match analysis, probability-based predictions, betting value detection, bankroll thinking, and performance tracking.
+It is a **data-driven football analysis platform** created to analyze matches, estimate probabilities, detect value opportunities, and present insights in a clean, intuitive way.
 
-- 🧠 **Why I’m building it**  
-  To combine data analysis, software development, and decision-making into one product that solves a real problem in a smarter way.
+The goal is simple: transform complex match data into smarter and clearer decision-making.
+
+#### What ScoreLab is built around:
+- Football match analysis
+- Probability-based predictions
+- Value bet identification
+- Bankroll and performance thinking
+- Clean product design focused on usability
+
+#### Why I’m building it:
+Because I like building products where **logic, data, and software** come together to solve real-world problems in a smarter way.
 
 ---
 
 ## 🧰 Tech Stack
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -50,16 +58,18 @@ Right now, my main focus is **ScoreLab** — a data-driven software project buil
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=DTRV95&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DTRV95&layout=compact&theme=radical&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DTRV95&layout=compact&theme=radical&langs_count=10&size_weight=0.5&count_weight=0.5" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=DTRV95&theme=radical&hide_border=false" />
+  <img height="170" src="https://streak-stats.demolab.com?user=DTRV95&theme=radical" />
 </p>
+
+---
 
 ## 🌐 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/david-vilaverde/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -71,5 +81,5 @@ Right now, my main focus is **ScoreLab** — a data-driven software project buil
 ---
 
 <p align="center">
-  Thanks for stopping by — feel free to explore my repositories and connect with me.
+  Feel free to explore my repositories and follow the projects I’m building.
 </p>
